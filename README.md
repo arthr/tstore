@@ -1,2 +1,0 @@
-# tstore
-Thrift Store
